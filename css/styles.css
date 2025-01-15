@@ -1,0 +1,83 @@
+.box{
+    height: 60px;
+    /*min-height: 10px;*/
+}
+.header{
+    background-color: brown;
+}
+.wrapper{
+    overflow: hidden;
+
+}
+.blog{
+    float: left;
+    width: 60%;
+    height: 150px;
+    background-color: grey;
+}
+.contact{
+    float: right;
+    width: 40%;
+    height: 150px;
+    background-color: aqua;
+}
+.i1{
+    float: left;
+    width: 35%;
+    height: 150px;
+    background-color: seagreen;
+}
+.i2{
+    float: left;
+    width: 35%;
+    height: 150px;
+    background-color: teal;
+}
+.i3{
+    float: left;
+    width: 30%;
+    height: 150px;
+    background-color: tomato;
+}
+.s{
+    float: left;
+    width: 25%;
+    height: 150px;
+}
+.purple{
+    background-color: purple;
+}
+.tomato{
+    background-color:tomato;
+}
+.slateblue{
+    background-color: slateblue;
+}
+.red{
+    background-color: red;
+}
+.t{
+    float: left;
+    width: 20%;
+    height: 150px;
+}
+.blue{
+    background-color: blue;
+}
+    
+.teal{
+    background-color: teal;
+}
+.palevioletred{
+    background-color: palevioletred;
+}
+.grey{
+    background-color: grey;
+}
+.greenyellow{
+    background-color: greenyellow;
+}
+.footer{
+    /*clear: both; it's not a good practice as it does not solve the space problem*/
+    background-color: purple;
+}
